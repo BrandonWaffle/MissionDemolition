@@ -1,2 +1,2 @@
 # MissionDemolition
-
+Alright so my cool enhancements are, I made it to where the ball will dispear after a certain amount are on screen I think that is just a given though. I also added three extra balls that do different things, at different intervals. after the first three balls you have a ball that multiplies. after the 5th ball a bigger ball comes on screen, and after the 7th ball a homing ball comes, I might make that the 10th ball though. I am still trying to see how hard it is to get the goal on each castle. 
